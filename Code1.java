@@ -11,6 +11,7 @@ public class MySum {
 	public static void main(String[] args) {
 		
 		int numbers = Integer.parseInt(args[0]);
+		//This is output
 		System.out.println(sumofnumbers(numbers));		
 	}
 }
