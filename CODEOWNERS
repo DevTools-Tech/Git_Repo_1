@@ -1,11 +1,11 @@
 # Whole Repository
-* @ganeshj@devtools.in
+* @GaneshBabu-J
 
 # Single File
-Code1.java @codeownername
+# Code1.java @codeownername
 
 # File Extension 
-*.py @codeownername
+# *.py @codeownername
 
 # Directory
-docs/* @codeownername
+# docs/* @codeownername
